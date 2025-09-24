@@ -1,0 +1,25 @@
+Prompt para escolha do nome do podcast:
+você é um roteirista de podcast e vamos criar um podcast de aeronáutica. Gostaria de uma ajuda sua para 5 sugestões de nomes para um podcast, que tenha trocadilho com a área
+
+Nome escolhido: Na mesma Altura
+
+Prompt para o roteiro:
+voce é um roteirista de podcast e vamos criar um roteiro sobre desafios enfrentados na estabilidade de uma aeronave não tripulada (VANT) para áreas com rajadas fortes de vento frequentes (quase todos os dias), para mapear uma plantação. O formato do roteiro deve ser: Introdução, curiosidade 1, curiosidade 2 e finalização. Regras: use termos de fácil explicação o podcaste será apresentado por apenas uma pessoa chamada Emelyn O podcast deve ser curto. Regras negativas: Não ultrapasse 5 minutos de duração
+
+Roteiro:
+🎙️ Roteiro de Podcast – Estabilidade de VANTs em Rajadas de Vento
+
+Introdução
+“Olá, eu sou a Emelyn, e hoje vamos falar sobre um desafio bem comum no uso de drones agrícolas: manter a estabilidade de uma aeronave não tripulada quando ela voa em áreas com rajadas fortes de vento quase todos os dias, especialmente durante o mapeamento de plantações.”
+
+Curiosidade 1
+“Você sabia que o vento lateral é um dos principais inimigos da estabilidade de um VANT? Em regiões com rajadas constantes, o drone pode ser empurrado para fora da rota planejada, o que atrapalha a precisão do mapeamento. Para corrigir isso, muitos drones utilizam sensores como giroscópios e acelerômetros, que funcionam como um ‘sistema de equilíbrio automático’.”
+
+Curiosidade 2
+“Outra curiosidade é que alguns modelos mais avançados contam com sistemas de controle preditivo. Isso significa que o software consegue antecipar mudanças bruscas no voo, ajustando os motores em tempo real para compensar o efeito do vento. Mas claro, tudo isso exige mais consumo de bateria, o que acaba reduzindo o tempo de voo disponível para cobrir a plantação.”
+
+Finalização
+“Enfrentar ventos fortes é sempre um desafio, mas a tecnologia tem evoluído muito para manter os drones estáveis e eficientes no campo. E você, já tinha imaginado como o vento pode ser um vilão tão presente no uso agrícola dos VANTs? Obrigada por me acompanhar, e até o próximo episódio!”
+
+Prompt para a imagem:
+crie uma arte em forma de imagem  em cartoon de uma estudante de engenharia aeronáutica, de cabelo marrom, longo e ondulado, com um microfone na frente como se tivesse apresentando algo em uma sala privada
